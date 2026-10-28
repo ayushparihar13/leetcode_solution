@@ -24,6 +24,7 @@ My LeetCode Solution In Java
 | ------- |
 | [0013-roman-to-integer](https://github.com/ayushparihar13/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ayushparihar13/leetcode_solution/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/ayushparihar13/leetcode_solution/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
@@ -32,4 +33,5 @@ My LeetCode Solution In Java
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushparihar13/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ayushparihar13/leetcode_solution/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
